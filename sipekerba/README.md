@@ -1,9 +1,0 @@
-# Sistem Informasi Pengaduan Kerusakan Barang berbasis Web
-
-Langkah setup:
-1. Download repo, lalu ekstrak ke folder htdocs yang ada didalam XAMPP
-2. Import database terlebih dahulu, nama database harus sama dengan yang ada didalam folder db
-3. Default user untuk login ke dalam admin panel:
-    - username: admin
-    - password: admin
-Link Drive: https://drive.google.com/drive/folders/16Ke5abEZlAgnxhMk-tQtBByr2aU-mK7L?usp=drive_link
