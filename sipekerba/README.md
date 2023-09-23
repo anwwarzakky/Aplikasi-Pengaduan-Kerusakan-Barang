@@ -6,3 +6,4 @@ Langkah setup:
 3. Default user untuk login ke dalam admin panel:
     - username: admin
     - password: admin
+Link Drive: https://drive.google.com/drive/folders/16Ke5abEZlAgnxhMk-tQtBByr2aU-mK7L?usp=drive_link
